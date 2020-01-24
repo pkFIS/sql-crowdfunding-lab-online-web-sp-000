@@ -1,14 +1,14 @@
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES
-  ('1', 'Sanford, Marquardt and Zieme', 'Medical/Dental Instruments', '$67114.96', '11/13/2018', '4/7/2019'),
-  ('2', 'Weber and Sons', 'n/a', '$34407.39', '9/19/2018', '6/14/2019'),
-  ('3', 'O''Keefe, Lebsack and Wilderman', 'Savings Institutions', '$89839.79', '3/12/2018', '5/29/2019'),
-  ('4', 'Pfannerstill, Gibson and Reinger', 'Other Specialty Stores', '$94020.62', '11/21/2018', '5/28/2019'),
-  ('5', 'Gibson, Kuphal and Walsh', 'n/a', '$91432.75', '2/9/2018', '11/8/2019'),
-  ('6', 'Jacobson Inc', 'Aerospace', '$5416.87', '7/7/2018', '2/2/2019'),
-  ('7', 'Satterfield Group', 'n/a', '$75124.10', '12/18/2018', '10/9/2019'),
-  ('8', 'Toy Inc', 'Precious Metals', '$13979.16', '6/28/2018', '11/11/2019'),
-  ('9', 'Quigley-Simonis', 'Coal Mining', '$1277.71', '6/18/2018', '2/24/2019'),
-  ('10', 'Haley, Emard and O''Hara', 'Real Estate Investment Trusts', '$42465.76', '7/9/2018', '8/13/2019');
+  (1, 'Sanford, Marquardt and Zieme', 'Medical/Dental Instruments', 67114.96, '11/13/2018', '4/7/2019'),
+  (2, 'Weber and Sons', 'n/a', 34407.39, '9/19/2018', '6/14/2019'),
+  (3, 'O''Keefe, Lebsack and Wilderman', 'Savings Institutions', 89839.79, '3/12/2018', '5/29/2019'),
+  (4, 'Pfannerstill, Gibson and Reinger', 'Other Specialty Stores', 94020.62, '11/21/2018', '5/28/2019'),
+  (5, 'Gibson, Kuphal and Walsh', 'n/a', 91432.75, '2/9/2018', '11/8/2019'),
+  (6, 'Jacobson Inc', 'Aerospace', 5416.87, '7/7/2018', '2/2/2019'),
+  (7, 'Satterfield Group', 'n/a', 75124.10, '12/18/2018', '10/9/2019'),
+  (8, 'Toy Inc', 'Precious Metals', 13979.16, '6/28/2018', '11/11/2019'),
+  (9, 'Quigley-Simonis', 'Coal Mining', 1277.71, '6/18/2018', '2/24/2019'),
+  (10, 'Haley, Emard and O''Hara', 'Real Estate Investment Trusts', 42465.76, '7/9/2018', '8/13/2019');
 
 INSERT INTO users (id, name, age) VALUES
   (1, 'Trueman Cominoli', 26),
